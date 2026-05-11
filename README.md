@@ -1,87 +1,55 @@
-````md
 # Personal Portfolio Website
 
-This repository contains the source code for my personal developer portfolio website.
-
-<p align="center">
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=black"/>
-    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-## Live Website
-
-🌐 https://your-vercel-url.vercel.app
-
----
+A modern and responsive developer portfolio website built with HTML, CSS, and JavaScript.
 
 ## About
 
-A modern responsive developer portfolio built to showcase projects, technical skills, experience, and contact information.
-
-The portfolio features a clean UI, smooth animations, responsive design, and an interactive user experience optimized for desktop and mobile devices.
-
----
+This portfolio showcases my background, technical skills, cloud & DevOps projects, work experience, and contact information in a clean terminal-inspired design.
 
 ## Features
 
-- Responsive modern design
-- Interactive UI elements
-- Smooth animations & transitions
+- Responsive modern UI
+- Interactive terminal easter egg
+- Animated typing effect
+- Smooth scrolling navigation
+- Project showcase section
+- Skills and experience sections
 - Mobile-friendly layout
-- Resume integration
-- Fast static deployment
-- Optimized for Vercel hosting
 
----
-
-## Built With
+## Tech Stack
 
 - HTML5
 - CSS3
 - Vanilla JavaScript
-- Vercel
 
----
+## Projects Featured
 
-## Deployment
+### Uptime Arena
+Website uptime monitoring platform built with Flask, React, Docker, AWS EC2, GitHub Actions, Prometheus, and Grafana.
 
-This portfolio is deployed using Vercel static hosting.
+### CloudForge
+Self-service AWS infrastructure provisioning platform built with Python, Terraform, Docker, and GitHub Actions.
 
-To run locally:
+## Live Demo
+
+Add your deployed website link here.
+
+## Run Locally
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-
-cd your-repo-name
-
-open index.html
+git clone https://github.com/yourusername/portfolio-website.git
 ```
 
----
+Open `index.html` in your browser.
 
 ## Contact
 
-<p align="left">
-  <a href="mailto:your-email@example.com"> 
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/your-github">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+- LinkedIn: https://linkedin.com/in/birarvindersingh
+- GitHub: https://github.com/Birarvindersingh
+- Email: birarvindersingh@gmail.com
 
 ---
 
-## Author
-
-Built and maintained by [Birarvinder Singh Chhabra](https://github.com/Birarvindersingh).
-````
+Built by Birarvinder Singh Chhabra
