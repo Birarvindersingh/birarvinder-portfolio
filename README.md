@@ -4,7 +4,7 @@ A modern and responsive developer portfolio website built with HTML, CSS, and Ja
 
 ## About
 
-This portfolio showcases my background, technical skills, cloud & DevOps projects, work experience, and contact information in a clean terminal-inspired design.
+This portfolio showcases my background, technical skills, projects, work experience, and contact information in a clean terminal-inspired design.
 
 ## Features
 
@@ -21,14 +21,6 @@ This portfolio showcases my background, technical skills, cloud & DevOps project
 - HTML5
 - CSS3
 - Vanilla JavaScript
-
-## Projects Featured
-
-### Uptime Arena
-Website uptime monitoring platform built with Flask, React, Docker, AWS EC2, GitHub Actions, Prometheus, and Grafana.
-
-### CloudForge
-Self-service AWS infrastructure provisioning platform built with Python, Terraform, Docker, and GitHub Actions.
 
 ## Live Demo
 
