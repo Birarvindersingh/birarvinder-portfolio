@@ -31,7 +31,7 @@ Add your deployed website link here.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/Birarvindersingh/birarvinder-portfolio.git
 ```
 
 Open `index.html` in your browser.
