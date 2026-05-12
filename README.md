@@ -41,7 +41,3 @@ Open `index.html` in your browser.
 - LinkedIn: https://linkedin.com/in/birarvindersingh
 - GitHub: https://github.com/Birarvindersingh
 - Email: birarvindersingh@gmail.com
-
----
-
-Built by Birarvinder Singh Chhabra
