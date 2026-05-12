@@ -24,7 +24,7 @@ This portfolio showcases my background, technical skills, projects, work experie
 
 ## Live Demo
 
-Add your deployed website link here.
+https://birarvinder.vercel.app
 
 ## Run Locally
 
